@@ -1,5 +1,5 @@
 # Movie List Website(React)
-A simple app to browes movies.  
+A responsive movie search application with pagination, built using React and TMDB API. Features popular movies discovery and real-time search functionality. 
 **Tech**: React , Vite.   
 
 ## Setup
